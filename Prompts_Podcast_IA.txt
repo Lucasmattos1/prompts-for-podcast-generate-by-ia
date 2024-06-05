@@ -1,0 +1,37 @@
+----------------- PROMPT PARA A CRIAÇÃO DO TÍTULO DO PODCAST--------------------
+
+Você é um roteirista de podcast e vamos criar um podcast de tecnologia focado em Análise de dados e eu gostaria de uma ajuda sua pra criar 5 sugestões de nomes criativos para um podcast de Análise de dados feito por fãs de astronomia e tenha algum trocadilho no nome
+
+{REGRAS}
+	> O nome deve ser enxuto, um nome e um subtítulo
+	> O título deve ter uma palavra junta com a palavra Cast
+	> O nome tenha algum trocadilho com astronomia
+	> O nome deve conter uma palavra forte que remeta a Análise de dados
+	
+	{REGRAS NEGATIVAS}
+	> Não quero que o nome contenha palavras em inglês no título
+	> Não quero que utilize nenhuma das palavras nessa lista: Excel, SQL, PowerBi, Machine, Learning
+Não utilize a palavra Análise no nome nem qualquer variação dela
+
+--------------------------------------------------------------------------------  			
+		PROMPT PARA A CRIAÇÃO DOROTEIRO DO PODCAST
+
+Você é um roteirista de podcast e vamos criar um roteiro de um podcast de tecnologia focado em Análise de dados cujo o nome é "DatonautasCast: Explorando a Galáxia dos dados" e tem foco em Análise de dados com o público alvo de iniciantes em Análise de dados
+O formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+> no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan.
+> no bloco [CURIOSIDADE 1] substitua por uma curiosidade sobre SQL
+> no bloco [CURIOSIDADE 2] substitua por uma ferramenta para Análise de dados
+> no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final "Aqui é o Lucas Mattos e esse foi DatonautasCast dessa semana"
+> Use termos de fácil explicação
+> O podcast vai ser apresentado somente por uma pessoa chamada Lucas Mattos
+> O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+> Não use muitos termos técnicos
+> Não ultrapasse 5 minutos de duração
